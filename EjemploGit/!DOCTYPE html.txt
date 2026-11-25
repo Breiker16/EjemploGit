@@ -62,6 +62,8 @@
     </form>
 
     <div id="resultado"></div>
+<h1>Mi primera actualización</h1>
+<p>Estoy aprendiendo a utilizar GitHub.</p>
 
 </body>
 </html>
